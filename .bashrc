@@ -1,0 +1,5 @@
+export PS1="\u@\h \e[0;34m\w\e[m > "
+alias ll="ls -al --group-directories-first --color=auto"
+alias ls="ls --color=auto"
+alias vi="nvim"
+alias vim="nvim"
