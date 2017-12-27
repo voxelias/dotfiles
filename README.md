@@ -3,7 +3,7 @@ Configurations, styles, colorschemes, themes, scripts etc
 
 ## Neovim
 
-![neovim+alchemie](https://github.com/lowentwickler/dotfiles/raw/master/src/nvim_alchemie.png "neovim+alchemie")
+![neovim+alchemie](https://github.com/lowentwickler/dotfiles/raw/master/nvim_alchemie.png "neovim+alchemie")
 
 Minimalistic configuration script for neovim:
  * only one extra plugin - [NERDTree](https://github.com/scrooloose/nerdtree)
