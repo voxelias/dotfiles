@@ -11,7 +11,7 @@ Minimalistic configuration script for neovim:
  * statusline with git branch indicator
  * some key mappings
 
-### Alchemie colorscheme
+## Alchemie colorscheme
 Colorscheme for neovim / vim. To install:
  * put alchemie.vim file into ~/.vim/colors for vim and ~/.config/nvim/colors
    for neovim
